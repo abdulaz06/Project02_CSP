@@ -25,7 +25,7 @@ Before submitting, verify that:
 * [x] Your code works dynamically when datasets are updated.
 * [x] You have completed the AI Student Declaration on [PETRA AI](https://www.petraai.org/student) and saved it as `AI_declaration.png` in the repository root.
 * [x] You have completed all sections in `report.md` (with your Name, UID (netID), UIN, video presentation link, directory structure explanation, and discussion). Do not alter the structure of `report.md`.
-* [ ] You have recorded a 5–7 minute video presentation (.mp4, face visible) explaining your project directory structure, problem formulation, and demonstration of `studentscheduler()`, and uploaded it to YouTube, Google Drive, or Dropbox (with accessible view permission).
+* [x] You have recorded a 5–7 minute video presentation (.mp4, face visible) explaining your project directory structure, problem formulation, and demonstration of `studentscheduler()`, and uploaded it to YouTube, Google Drive, or Dropbox (with accessible view permission).
 
 ### 2. How to Submit
 Submit all required files (including `app.py`, `report.md`, `AI_declaration.png`, and `data/`) to **Gradescope** under **Project 2**.

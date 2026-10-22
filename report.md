@@ -35,7 +35,7 @@
 ---
 
 ## Section 3: Video Presentation & Project Structure
-- **Video Presentation Link:** [Provide an accessible link to your 5–7 minute video presentation]
+- **Video Presentation Link:** https://youtu.be/NT-TArZG8rM
 - **Project Directory Structure:** `app.py` is the entry point and exports the timetable. `data_loader.py` reads and connects the CSV datasets, including the course/cohort and instructor information. `constraints_engine.py` checks hard rules and calculates soft penalties. `solver.py` has the backtracking solver with MRV, Degree, LCV, Forward Checking, and local search to improve the schedule. The `data/` folder contains the input CSV files and generated timetable. The original project guidelines and README are kept in the main folder.
 
 ---
